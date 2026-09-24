@@ -122,6 +122,15 @@ Next steps: tighter Intune / endpoint-management labs, more GPO baselines, and r
 
 ---
 
+## Related labs
+
+- [helpdesk-graph-toolkit](https://github.com/SudoShad/helpdesk-graph-toolkit) — Entra / Graph helpdesk automation
+- [endpoint-hardening-baseline](https://github.com/SudoShad/endpoint-hardening-baseline) — Intune Windows hardening policy-as-code
+- [linux-ops-toolkit](https://github.com/SudoShad/linux-ops-toolkit) — POSIX `sh` backup / SSH guard / health check
+- [ad-intune-mini-tenant](https://github.com/SudoShad/ad-intune-mini-tenant) — Entra + Intune enroll lab *(PARKED)*
+
+---
+
 ## Connect
 
 - Portfolio: [shadman.io](https://shadman.io)
